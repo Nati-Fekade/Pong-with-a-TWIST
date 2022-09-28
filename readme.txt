@@ -1,4 +1,4 @@
-Hey there,
+### Hey there,
 
 My homework 2 works 'partially' where it duplicates on the first collision
 and will not duplicate afterwards. However, I all the other game functionality work.
@@ -8,14 +8,14 @@ In 'game' mode, you will be able to play pong, keep track of the scores, and if 
 press 'select' button to pause the game. From 'pause' mode, you can continue to the game or
 restart the game.
 
-Instructions on how to play:
+## Instructions on how to play:
 * Press 'UP' to go up, and 'DOWN' key to go down, to control right side of the paddle
 * Press 'A' to go up, and 'B' to go down, to control left side of the paddle
 
 * Press 'START' to start game
 * Press 'SELECT' to pause game
 
-Winning state:
+### Winning state:
 * If either left or right side players reach a score of 5, the game ends.
 
 -----ENJOY-----
